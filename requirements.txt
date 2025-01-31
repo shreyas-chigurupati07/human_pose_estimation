@@ -1,0 +1,24 @@
+tensorflow
+tensorflow-hub
+opencv-python
+imageio
+imutils
+onnxruntime
+numpy
+pandas
+notebook
+dvc
+scikit-learn
+matplotlib
+seaborn
+Flask
+Flask-Cors
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+scipy
+boto3
+types-PyYAML
+-e .
