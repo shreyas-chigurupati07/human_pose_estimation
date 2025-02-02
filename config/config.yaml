@@ -5,3 +5,9 @@ data_ingestion:
   root_dir: artifacts/data_ingestion
   local_data_file: data.zip
   unzip_dir: artifacts/data_ingestion
+
+
+pose_estimation:
+  root_dir: artifacts/pose_estimation
+  base_model_path: artifacts/pose_estimation/movenet_model.tflite
+  updated_base_model_path: artifacts/pose_estimation/updated_movenet_model.tflite
